@@ -26,3 +26,9 @@ if __name__=='__main__':
 # if you have any test named after the keyword that you provided. It will run. like this,
 # pytest -k func1 -v (-v is for verbosity)
 # i think be used as groups in TestNG
+
+
+#-------------------------------------------------------------------------------------------------------
+
+# Markers:
+# as I can understand markers can be used as
